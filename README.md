@@ -5,3 +5,6 @@ GUI表示ができるpowershellの自作関数をまとめてみました。基�
 windows.formsのOpenFileDialogではフォルダが選択できないこと、何をしてほしいかユーザに伝えるにはタイトルにいれるしかないことなど不満があったので作りました。  
 WindowsAPICodePackを使っているのでdllを取ってくる必要があります。  
 2.aaa  
+1. テキスト
+2. テキスト
+    3. テキスト
